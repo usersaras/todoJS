@@ -37,7 +37,8 @@ div.form {
     display: flex;
     flex-direction: column;
     gap: 15px;
-    max-width: 350px;
+    min-width: 350px;
+    max-width: 700px;
 }
 
 div{
@@ -71,7 +72,7 @@ div.buttons-container{
 
 ul {
     list-style: none;
-    margin-top: 30px;
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     gap: 15px; 
